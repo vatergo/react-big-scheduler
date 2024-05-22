@@ -1,6 +1,6 @@
 {
-  "name": "react-big-scheduler",
-  "version": "0.2.7",
+  "name": "@vatergo/react-big-scheduler",
+  "version": "0.2.14",
   "description": "A scheduler and resource planning component built for React and made for modern browsers (IE10+)",
   "keywords": [
     "scheduler",
@@ -46,8 +46,8 @@
     "moment": "^2.24.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
-    "react-dnd": "^7.5.0",
-    "react-dnd-html5-backend": "^7.5.0",
+    "react-dnd-scheduler": "npm:react-dnd@7.7.0",
+    "react-dnd-html5-backend-scheduler": "npm:react-dnd-html5-backend@7.7.0",
     "react-dom": "^16.8.6",
     "rrule": "^2.6.0"
   },
